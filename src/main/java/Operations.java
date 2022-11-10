@@ -11,7 +11,7 @@ public class Operations {
         return (a + b);
     }
 
-    //Метод выитания
+    //Метод вычитания
     public static double subtract(double a, double b) {
         return 0;
     }
