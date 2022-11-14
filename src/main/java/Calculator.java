@@ -1,5 +1,11 @@
 import java.util.Scanner;
-
+/**
+ * @author Иванов Денис
+ * @see Operations#add(double, double) Сложение
+ * @see Operations#subtract(double, double) Вычитание
+ * @see Operations#multiply(double, double) Умножение
+ * @see Operations#divide(double, double) Деление
+*/
 public class Calculator {
     public static void calculator(){
         //Определяем переменные

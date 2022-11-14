@@ -14,6 +14,7 @@ import java.util.Scanner;
  * @see Operations#subtract(double, double) Вычитание
  * @see Operations#multiply(double, double) Умножение
  * @see Operations#divide(double, double) Деление
+ * @see ArraysMethods#maxLength() Поиск самого длинного слово в вводимом в рамках метода массиве
  */
 
 
