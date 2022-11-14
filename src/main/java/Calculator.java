@@ -25,7 +25,7 @@ public class Calculator {
                 System.out.printf("%.4f / %.4f = %.4f", a, b, Operations.divide(a, b));
                 break;
             default:
-                System.err.printf("?????? ???????????? ????????. ?????????: \u001B[1m+ - * /\033[0m; ???????: \u001B[1m%s", operation);
+                System.err.printf("¬веден некорректный оператор. ќжидаетс€: \u001B[1m+ -  * /\033[0m; введено: \u001B[1m%s", operation);
         }
 
         sc.close();
