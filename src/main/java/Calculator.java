@@ -1,6 +1,7 @@
 import java.util.Scanner;
 /**
  * @author Иванов Денис
+ * @see  #calculator() Калькулятор
  * @see Operations#add(double, double) Сложение
  * @see Operations#subtract(double, double) Вычитание
  * @see Operations#multiply(double, double) Умножение

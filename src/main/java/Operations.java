@@ -1,9 +1,9 @@
 public class Operations {
 
     /**
-     * @param a ?????? ?????????
-     * @param b ?????? ?????????
-     * @return ????????? ????????
+     * @param a первое число
+     * @param b второе число
+     * @return результат операции
      */
     public static double add(double a, double b) {
         return (a + b);
@@ -14,11 +14,11 @@ public class Operations {
     }
 
     public static double multiply(double a, double b) {
-        return a * b;
+        return (a * b);
     }
 
     public static double divide(double a, double b) {
-        return a / b;
+        return (a / b);
     }
 
 }
